@@ -1,0 +1,15 @@
+var num=20.5;
+
+num=parseFloat(num); // Int, Float
+console.log(num);
+
+
+// toFixed() method
+var number=2.5678;
+console.log(number.toFixed(3)); // how many position
+
+// toPrecision()
+
+console.log(number.toPrecision(1)); // length of the number
+
+
