@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+    <script>
+        alert("Don't Open");
+        document.write("Abdullah Al Azme <br/>");
+        document.write("Number: 01***4679**");
+
+        console.log("Abdullah Al Azme");
+    </script>
+
+
+</body>
+</html>
