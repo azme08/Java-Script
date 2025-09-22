@@ -1,0 +1,27 @@
+//HTML Part
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Java Script Practice</title>
+</head>
+<body>
+
+
+ <script src="practice.js"></script>
+
+</body>
+</html>
+
+
+----------------------------------
+// Java Script Part
+//var or let or const
+
+var fname='Abdullah Al Azme';
+console.log(fname);
+
+----------------------------------
+//output print system
+//In Terminal section -> type node -> js file name -> enter
