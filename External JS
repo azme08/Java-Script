@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page Title</title>
+</head>
+<body>
+
+  <h1>Testing External JavaScript</h1>
+
+  <script src="practice.js"></script>
+
+</body>
+</html>
+
+----------------------------------------
+Open a practice.js project and write this type of code
+--------------------------------------------------
+
+alert("Hello from practice js!");
