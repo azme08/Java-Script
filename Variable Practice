@@ -1,0 +1,10 @@
+
+const userName='Azme08';
+const income=30000;
+const expense=25000;
+
+
+console.log(userName);
+console.log(income);
+console.log(expense);
+
