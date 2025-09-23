@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
+</head>
+<body>
+
+<h2>Demo JavaScript Project</h2>
+
+<p id="demo">A Simple Paragraph.</p>
+
+<button type="button" onclick="myFunction()">Change</button>
+
+</body>
+</html> 
