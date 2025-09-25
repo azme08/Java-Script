@@ -1,0 +1,9 @@
+// document.write("Abdullah" + " Al " +" Azme"); //This is 1st way
+
+var firstName="Abdullah";
+var secondName=" Al";
+var thirddName=" Azme";
+
+var fullName=firstName+secondName+thirddName;
+ document.write("My Name is " + fullName +"</br>");
+ document.write(fullName +" is my name");
