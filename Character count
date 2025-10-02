@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+var text="Bangladesh";
+
+document.write("Number of Character: "+text.length);
+
+</script>
+
+</body>
+</html>
